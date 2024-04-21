@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Louis-X0/EZRA-XD.git"
+    "url": "git+https://github.com/Afx-Nasim/Diyah.git"
   },
   "keywords": [
     "bot",
@@ -22,9 +22,9 @@
   "developer": "Louis / Zeta",
   "license": "GPL-3.0-or-later",
   "bugs": {
-    "url": "https://github.com/Louis-X0/EZRA-XD/issues"
+    "url": "https://github.com/Afx-Nasim/Diyah/issues"
   },
-  "homepage": "https://github.com/Louis-XD/EZRA-XD#readme",
+  "homepage": "https://github.com/Afx-Nasim/Diyah#readme",
   "dependencies": {
     "@whiskeysockets/baileys": "^6.6.0",
     "@adiwajshing/keyed-db": "^0.2.4",
@@ -70,6 +70,7 @@
     "simple-git": "^3.14.1",
     "spinnies": "^0.5.1",
     "sqlite3": "^5.1.1",
-    "supervisor": "^0.12.0"
+    "supervisor": "^0.12.0",
+    "yt-search": "^2.10.3"
   }
-}
+  }
